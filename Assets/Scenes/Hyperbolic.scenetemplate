@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Hyperbolic
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: 615e95dba5b415e4caec00856cf883b0, type: 3}
+  templateName: Hyperbolic
+  description: Hyperbolic - Non-euclidian geometry Scene with infinity plane and
+    player controler!
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 2800000, guid: 869f6044047134f42aefa04f905d1810, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 4bb254ba535c01940b3c194be2e6b1e8, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: f226e6b02be912c4aa1639e7c75d7249, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 919132149155446097, guid: 06805c2307428024d8fddfbd175b215d, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 3fd95500a28cf5640ac48ebf1008eaef, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 6a2276eec789f9b47a780ee087209e18, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: db284d267dbc177448a11435302c246e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ba6d64d14acbae84ba38b40405bc2ffb, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: e91d7a3cc57a2664ea1568e1cf0d2823, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: 4fea59cf9adeb1248a47b82607f0cc4a, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: f1645c6450e0f154ab5a02eefa7133fe, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: d1036114387d7274a802b418bd34bbe9, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: a612ae33cfd9ff24a92c15dc075930cf, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 1
